@@ -29,7 +29,7 @@ It demonstrates the skills and methodologies I can bring to a Data Scientist rol
 
 6. Contact
 For inquiries, feel free to reach out:
-Paras Jamkar
+Darshika Saini
 
 Email: darshikasaini1@gmail.com
 LinkedIn: https://www.linkedin.com/in/darshika-saini-794960182/
