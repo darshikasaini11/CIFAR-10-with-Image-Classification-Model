@@ -35,7 +35,7 @@ Email: darshikasaini1@gmail.com
 LinkedIn: https://www.linkedin.com/in/darshika-saini-794960182/
 7. How to Run the Project
 # Clone the repository
-git clone https://github.com/parasjamkar/CIFAR-10-Image-Classification-Model.git
+git clone https://github.com/darshikasaini11/CIFAR-10-Image-Classification-Model.git
 cd CIFAR-10-Image-Classification-Model
 
 # Install dependencies
